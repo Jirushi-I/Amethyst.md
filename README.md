@@ -1,2 +1,2 @@
 # Amethyst.md
-Dropping ideas in a database to get designers unemployed
+Dropping ideas in an Obsidian.md database to get designers unemployed
